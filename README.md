@@ -1,0 +1,1 @@
+Some simple programs taken from a C++ book in order to better my understanding
