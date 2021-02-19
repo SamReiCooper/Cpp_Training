@@ -14,5 +14,8 @@ int main()
     cout << a <<endl;
     a = a ^ 0b00111; //10111 ^ 00111 = 10000
     cout << a << endl;
+    a = 32;
+    a |= 0b00111;
+    cout << a << endl;
     return 0;
 }
